@@ -1,2 +1,2 @@
-# HelloBash
-This is a simple Bash Hello World
+# Shell / Bash
+This is a repository of Shell Script files
