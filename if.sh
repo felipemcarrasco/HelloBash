@@ -1,5 +1,5 @@
 #!/bin/bash
-  
+
 echo "Enter any number:"
 read number;
 if [ "$number" -ge 0 ];
