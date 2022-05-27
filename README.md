@@ -6,6 +6,11 @@
 #!/bin/bash
 ```
 
+**COMMENTS**
+```
+#This is a comment
+```
+
 **VARIABLES** 
 ```
 name=bash
