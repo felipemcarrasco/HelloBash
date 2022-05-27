@@ -4,8 +4,8 @@
    echo "Choose an option:"
    echo "1 - Delete Log Files "
    echo "2 - Calculate factorial"
-   read opcao;
-   case $opcao in
+   read option;
+   case $option in
    "1")
     delete_logs
     ;;
